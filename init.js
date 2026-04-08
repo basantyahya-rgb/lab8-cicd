@@ -4,7 +4,5 @@ db.tasks.insertMany([
   { id: 3, name: 'Bread', status: 'pending' },
   { id: 4, name: 'Butter', status: 'pending' },
   { id: 5, name: 'Orange juice', status: 'pending' },
-
-  // 👉 ADD THIS
   { id: 6, name: 'Tea', status: 'pending' }
 ]);
